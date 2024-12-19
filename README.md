@@ -12,3 +12,12 @@ This project involves performing Exploratory Data Analysis (EDA) on the Zomato d
 * Data Analysis Libraries: Pandas, NumPy
 * Visualization Tools: Matplotlib, Seaborn, Plotly
 * Notebook Environment: Jupyter Notebook
+# Results
+1. Popular Locations for Restaurants
+[Insight about cities with the highest number of restaurants.]
+2. Price vs. Rating Trends
+[Analysis of how restaurant pricing impacts customer ratings.]
+3. Cuisine Preferences
+[Findings about the most popular cuisines in various cities.]
+4. Service Types
+[Insights about delivery services versus dine-in options.]
