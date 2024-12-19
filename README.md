@@ -1,5 +1,6 @@
 # Zomato EDA Analysis Using Python
-![Zomato-Logo](https://github.com/user-attachments/assets/0f2bd102-67c9-48a4-b400-f1624c8dfd8e)
+![Zomato-Logo](https://github.com/user-attachments/assets/8500f02e-b8d2-4669-825f-17855f27a3f7)
+
 
 # overview
 This project involves performing Exploratory Data Analysis (EDA) on the Zomato dataset to gain insights into the restaurant industry. The analysis identifies patterns, trends, and relationships within the data, providing a better understanding of restaurant ratings, pricing, locations, and customer preferences.
